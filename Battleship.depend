@@ -1,0 +1,134 @@
+# depslib dependency file v1.0
+1621284783 source:c:\users\dk\downloads\new folder\battleship\deck.cpp
+	"deck.h"
+	"shuffler.h"
+
+1620854327 c:\users\dk\downloads\new folder\battleship\deck.h
+	"card.h"
+
+1621770124 c:\users\dk\downloads\new folder\battleship\card.h
+	<string>
+	"player.h"
+
+1621455136 c:\users\dk\downloads\new folder\battleship\player.h
+	"grid.h"
+
+1621108353 c:\users\dk\downloads\new folder\battleship\grid.h
+	"ship.h"
+
+1620850482 c:\users\dk\downloads\new folder\battleship\ship.h
+	"square.h"
+
+1619555819 c:\users\dk\downloads\new folder\battleship\square.h
+	<sstream>
+
+1622107643 c:\users\dk\downloads\new folder\battleship\shuffler.h
+	<iostream>
+	<cstdlib>
+
+1621100501 source:c:\users\dk\downloads\new folder\battleship\game.cpp
+	<iomanip>
+	<iostream>
+	"game.h"
+
+1621100112 c:\users\dk\downloads\new folder\battleship\game.h
+	"deck.h"
+	"player.h"
+
+1621108356 source:c:\users\dk\downloads\new folder\battleship\grid.cpp
+	<iostream>
+	<cstdlib>
+	"grid.h"
+	"player.h"
+
+1621719856 source:c:\users\dk\downloads\new folder\battleship\main.cpp
+	<iomanip>
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"game.h"
+
+1621109355 source:c:\users\dk\downloads\new folder\battleship\player.cpp
+	<iostream>
+	<cstdlib>
+	"player.h"
+
+1619561580 source:c:\users\dk\downloads\new folder\battleship\ship.cpp
+	"ship.h"
+
+1619555830 source:c:\users\dk\downloads\new folder\battleship\square.cpp
+	<iostream>
+	"square.h"
+
+1621770752 source:c:\users\dk\downloads\new folder\battleship\card.cpp
+	"card.h"
+	<iostream>
+
+1621284783 source:c:\users\dk\downloads\battleshipteliko\battleship\deck.cpp
+	"deck.h"
+	"shuffler.h"
+
+1620854327 c:\users\dk\downloads\battleshipteliko\battleship\deck.h
+	"card.h"
+
+1621770124 c:\users\dk\downloads\battleshipteliko\battleship\card.h
+	<string>
+	"player.h"
+
+1621455136 c:\users\dk\downloads\battleshipteliko\battleship\player.h
+	"grid.h"
+
+1621108353 c:\users\dk\downloads\battleshipteliko\battleship\grid.h
+	"ship.h"
+
+1620850482 c:\users\dk\downloads\battleshipteliko\battleship\ship.h
+	"square.h"
+
+1619555819 c:\users\dk\downloads\battleshipteliko\battleship\square.h
+	<sstream>
+
+1622474776 c:\users\dk\downloads\battleshipteliko\battleship\shuffler.h
+	<iostream>
+	<cstdlib>
+
+1621100501 source:c:\users\dk\downloads\battleshipteliko\battleship\game.cpp
+	<iomanip>
+	<iostream>
+	"game.h"
+
+1621100112 c:\users\dk\downloads\battleshipteliko\battleship\game.h
+	"deck.h"
+	"player.h"
+
+1621108356 source:c:\users\dk\downloads\battleshipteliko\battleship\grid.cpp
+	<iostream>
+	<cstdlib>
+	"grid.h"
+	"player.h"
+
+1621719856 source:c:\users\dk\downloads\battleshipteliko\battleship\main.cpp
+	<iomanip>
+	<iostream>
+	<sstream>
+	<string>
+	<cstdlib>
+	<ctime>
+	"game.h"
+
+1621109355 source:c:\users\dk\downloads\battleshipteliko\battleship\player.cpp
+	<iostream>
+	<cstdlib>
+	"player.h"
+
+1619561580 source:c:\users\dk\downloads\battleshipteliko\battleship\ship.cpp
+	"ship.h"
+
+1619555830 source:c:\users\dk\downloads\battleshipteliko\battleship\square.cpp
+	<iostream>
+	"square.h"
+
+1622474776 source:c:\users\dk\downloads\battleshipteliko\battleship\card.cpp
+	"card.h"
+
